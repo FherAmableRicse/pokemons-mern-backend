@@ -1,11 +1,11 @@
-# [Pokémons MERN Backend](https://control-presupuestario-r.netlify.app) 
+# [Pokémons MERN Backend](https://pokemons-r.netlify.app/pokemons) 
 
 
 ## 📜 Resumen 📜
 Administrador de Pokémon’s.[](https://github.com/FherAmableRicse/pokemons-mern-backend.git)
 
 ## 🔗 Endpoints 🔗
-### URL: https://www.heroku.com
+### URL: https://pokemons-mern-backend.herokuapp.com/api
 
 ## 💻 Instalación 💻
 - Ubicarse en la carpeta que contendrá el proyecto
